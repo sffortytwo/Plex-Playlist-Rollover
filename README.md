@@ -33,4 +33,4 @@ Since seasons that have been completed are excluded from the search, the code wi
 This script only works with TV shows. Since it uses broadcast dates to determine the next episode, make sure the metadata of your episodes are set correctly.
 
 This script assumes each show has normal, sequential seasons and is capable of handling one "specials" season (this usually comes up first). If you have any other configuration of seasons (somehow you have two "specials" seasons), where the normal sequential season would come third or later in the list, try increasing the value of the `NUMBER_OF_SEASONS_TO_CHECK` variable so it encompasses all the special seasons and the first availabe regular one.
-# Plex-Playlist-Rollover
+
